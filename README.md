@@ -1,4 +1,4 @@
-![TEMPLATE@2x-Toy-Car-Kit](https://github.com/user-attachments/assets/b4964fc5-3e39-460a-873c-ad8fd9de996c)
+![Toy-Car-Kit](Assets/Thumbnail/Toy_Car_Kit_Thumb.png)
 
 
 Kenney Toy Car Kit (1.0)
